@@ -30,5 +30,5 @@ app.get("/cookie", (req, res)=>{
 })
 
 app.listen(8082, ()=>{
-    console.log("escuchando en el puerto 8080");
+    console.log("escuchando en el puerto 8082");
 })
